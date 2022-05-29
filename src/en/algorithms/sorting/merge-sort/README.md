@@ -1,8 +1,5 @@
 # Merge Sort
 
-_Read this in other languages:_
-[_한국어_](README.ko-KR.md)
-
 In computer science, merge sort (also commonly spelled
 mergesort) is an efficient, general-purpose,
 comparison-based sorting algorithm. Most implementations

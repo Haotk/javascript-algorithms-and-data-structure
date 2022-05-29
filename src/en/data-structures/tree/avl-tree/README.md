@@ -1,8 +1,5 @@
 # AVL Tree
 
-_Read this in other languages:_
-[_Português_](README.pt-BR.md)
-
 In computer science, an **AVL tree** (named after inventors 
 Adelson-Velsky and Landis) is a self-balancing binary search 
 tree. It was the first such data structure to be invented. 
